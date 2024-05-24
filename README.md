@@ -1,6 +1,6 @@
-# AV Messenger
+# 2gether
 
-AV Messenger is an Android messaging application that allows users to communicate with each other. It includes features such as user authentication, profile settings, and real-time messaging. This project uses Firebase for backend services, including authentication, real-time database, and storage.
+2gether Messenger is an Android messaging application that allows users to communicate with each other. It includes features such as user authentication, profile settings, and real-time messaging. This project uses Firebase for backend services, including authentication, real-time database, and storage.
 
 ## Features
 
@@ -53,7 +53,7 @@ Allows users to update their profile information, including profile picture, use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/av-messenger.git
+    git clone https://github.com/your-repo/2gether.git
     ```
 2. Open the project in Android Studio.
 3. Connect your project to Firebase:
