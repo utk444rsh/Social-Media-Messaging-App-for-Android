@@ -1,8 +1,8 @@
 # 2gether
 
 2gether Messenger is an Android messaging application that allows users to communicate with each other. It includes features such as user authentication, profile settings, and real-time messaging. This project uses Firebase for backend services, including authentication, real-time database, and storage.
-![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7d62dd07-c1dc-4242-9009-719b1ba4412b) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7c0f14ff-65a0-4130-a949-e146eccb6a6c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/0d3d480e-dd72-4070-a445-b965a4f13fdd) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/1043bbb7-3188-4dd0-a9aa-573c926a81b1) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/33651ddd-9a47-4956-ad43-d6c5613d6217)
-
+![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7d62dd07-c1dc-4242-9009-719b1ba4412b) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7c0f14ff-65a0-4130-a949-e146eccb6a6c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/0d3d480e-dd72-4070-a445-b965a4f13fdd) 
+![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/c8cc4b38-40b4-4b94-8f0d-2516164fcb1c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/af0805fa-bdfb-462e-b4cf-0af03c04bc8d)
 
 
 
