@@ -1,6 +1,8 @@
 # 2gether
 
 2gether Messenger is an Android messaging application that allows users to communicate with each other. It includes features such as user authentication, profile settings, and real-time messaging. This project uses Firebase for backend services, including authentication, real-time database, and storage.
+![Uploading image.png…]()
+
 
 ## Features
 
