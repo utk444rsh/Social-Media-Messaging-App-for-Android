@@ -5,7 +5,8 @@
 
 
 ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7d62dd07-c1dc-4242-9009-719b1ba4412b) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/7c0f14ff-65a0-4130-a949-e146eccb6a6c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/0d3d480e-dd72-4070-a445-b965a4f13fdd) <br>
-![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/c8cc4b38-40b4-4b94-8f0d-2516164fcb1c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/af0805fa-bdfb-462e-b4cf-0af03c04bc8d)
+![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/c8cc4b38-40b4-4b94-8f0d-2516164fcb1c) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/af0805fa-bdfb-462e-b4cf-0af03c04bc8d) ![image](https://github.com/utk444rsh/Social-Media-Messaging-App-for-Android/assets/124518418/6aeb109b-3aac-4df7-a087-91226f51b2e1)
+
 
 
 
